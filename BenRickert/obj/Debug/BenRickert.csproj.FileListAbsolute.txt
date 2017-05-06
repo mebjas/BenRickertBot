@@ -1,0 +1,39 @@
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Bot Application1.dll.config
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Bot Application1.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Bot Application1.pdb
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Autofac.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Chronic.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.Bot.Builder.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.Bot.Connector.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Newtonsoft.Json.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.Net.Http.Formatting.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.Web.Http.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.Web.Http.WebHost.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Autofac.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.Bot.Builder.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.Bot.Connector.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\Newtonsoft.Json.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.Net.Http.Formatting.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.Web.Http.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\System.Web.Http.WebHost.xml
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\obj\Debug\BenRickert.csprojResolveAssemblyReference.cache
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\obj\Debug\Bot Application1.dll
+C:\Users\minhazv\Source\Repos\config service\BenRickert\BenRickert\obj\Debug\Bot Application1.pdb
